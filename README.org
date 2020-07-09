@@ -8,8 +8,8 @@ old style which I don’t really use these days, adaptation of the original [[ht
 - A♯ transposition
 - weird page number placement
 *** =plagiarium.lib=
-loosely based on my impression of Podium from a single .png file plus some features of published scores
-- Helsinki music fonts
+loosely based on my impression of [[https://www.scoringnotes.com/reviews/sibelius-2020-1/][Podium]] from a single .png file because I don’t want to pay for Sibelius 2020, plus some features of published scores
+- Helsinki music fonts with thicker lines
 - TeX Gyre Pagella text font
 - A♯ transposition for more instruments
 - some more percussion instruments (currently: hi-hat, suspended cymbal)
