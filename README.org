@@ -2,7 +2,7 @@
 House styles for Sibelius for syncing across my computers.
 ** Contents
 *** =norfolk.lib=
-old style which I don’t really use these days, 
+old style which I don’t really use these days, adaptation of the original [[https://www.nycmusicservices.com/musicresources/][Norfolk house style]]
 - Norfolk music fonts
 - TeX Gyre Schola text font
 - A♯ transposition
