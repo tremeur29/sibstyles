@@ -18,9 +18,11 @@ loosely based on my impression of [[https://www.scoringnotes.com/reviews/sibeliu
 on mac:
 
 #+BEGIN_SRC sh
-$ mkdir -p ~/Library/Application\ Support/Avid/Sibelius/House\ Styles
-$ cd ~/Library/Application\ Support/Avid/Sibelius/House\ Styles
+$ mkdir -p ~/Library/Application\ Support/Avid/Sibelius
+$ cd ~/Library/Application\ Support/Avid/Sibelius
+$ rm -rf House\ Styles
 $ git clone https://github.com/tremeur29/sibstyles.git
+$ mv sibstyles House\ Styles
 #+END_SRC
 
 on windows: tbc
