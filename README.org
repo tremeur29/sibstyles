@@ -1,0 +1,26 @@
+* sibelius house styles
+House styles for Sibelius for syncing across my computers.
+** Contents
+*** =norfolk.lib=
+old style which I don’t really use these days, 
+- Norfolk music fonts
+- TeX Gyre Schola text font
+- A♯ transposition
+- weird page number placement
+*** =plagiarium.lib=
+loosely based on my impression of Podium from a single .png file plus some features of published scores
+- Helsinki music fonts
+- TeX Gyre Pagella text font
+- A♯ transposition for more instruments
+- some more percussion instruments (currently: hi-hat, suspended cymbal)
+- non-musicy tuplet numbering
+** Installation
+on mac:
+
+#+BEGIN_SRC sh
+$ mkdir -p ~/Library/Application\ Support/Avid/Sibelius/House\ Styles
+$ cd ~/Library/Application\ Support/Avid/Sibelius/House\ Styles
+$ git clone https://github.com/tremeur29/sibstyles.git
+#+END_SRC
+
+on windows: tbc
